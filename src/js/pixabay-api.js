@@ -14,7 +14,7 @@ let limit = 15;
 btnMore.style.display = 'none';
 if (loader) loader.style.display = 'none';
 
-const key = '48428320-38598d28b4d5228a2fffcb2e3';
+const key = '48878518-9063069941d99e969b9b19843';
 const baseUrl = 'https://pixabay.com/api/';
 
 export async function findMyFetch(query, page = 1, limit = 20, append = false) {
